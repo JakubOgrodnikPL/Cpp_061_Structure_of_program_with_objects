@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662703604 source:c:\users\jakub\documents\programowanie\c++\061_structure_of_program_with_objects\main.cpp
+	<iostream>
+	"question.h"
+
+1662703410 c:\users\jakub\documents\programowanie\c++\061_structure_of_program_with_objects\question.h
+	<iostream>
+
+1662703657 source:c:\users\jakub\documents\programowanie\c++\061_structure_of_program_with_objects\question.cpp
+	<iostream>
+	"question.h"
+	<fstream>
+	<cstdlib>
+
